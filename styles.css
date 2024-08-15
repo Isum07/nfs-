@@ -1,0 +1,118 @@
+
+h2{ color:white;
+    background-image: url('images/hd.jpg');
+    background-repeat:no-repeat; 
+    background-size:cover;
+    background-attachment:fixed
+    
+
+    }
+
+h1{
+    font-style: oblique;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+hr{
+
+    height: 5px;
+    border-width:10px;
+    color:black;
+    background-color:black
+}
+
+n{
+    font-style:italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+
+
+}
+
+h5{
+    font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table,td,th {
+    border:1px solid black;
+    width: 1000px;;
+}
+
+f{ 
+    color: brown;
+    font-family: sans-serif;
+    font-size: 20px;
+
+
+}
+
+a{
+    color: blue;
+    font-family:cursive;
+    font-size: 20px;
+}
+
+m{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    
+
+
+}
+
+div.srvy{  
+    color:white;
+    background-image: url("./images/footer\ background.jpg");
+    background-repeat:no-repeat; 
+    background-attachment:fixed;
+    font-style: oblique;
+    font-family: sans-serif;
+    font-size: 50px;
+
+}
+div.static{
+    background-image: url('images/hd.jpg');
+    background-repeat:no-repeat; 
+    background-size:cover;
+    background-attachment:fixed;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-direction:row reverse;
+    flex-wrap:wrap;
+     flex-flow:row wrap;
+    align-items: center;
+    height: 500px;
+}
+
+
+ 
+
+o{
+        font-style: oblique;
+        font-family: sans-serif;
+        font-size: 30px;
+        color:white;
+}
+
+div.form{
+    border: 10px;
+        
+}
+
+#flex-container{
+    background-color:gainsboro; 
+    margin:10px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+#flex-container > div { 
+    background-color:aquamarine;
+    width: 100px;
+    height: 100px;
+    
+}
+
+
